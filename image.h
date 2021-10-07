@@ -33,10 +33,10 @@
 
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+#include "src/stb_image.h"
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_write.h"
+#include "src/stb_write.h"
 
 // Macros to compute Sepia filter value for each channel
 #define SEP_R(p) ((uint8_t)fmin(0.393 * *(p) + 0.769 * *((p) + 1) + 0.189 * *((p) + 2), 255.0))

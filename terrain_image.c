@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-#include "perlin.h"
+#include "src/perlin.h"
 #include "image.h"
 
 #define R0 58650

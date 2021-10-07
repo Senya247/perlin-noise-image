@@ -19,6 +19,6 @@ freq=0.005, depth=10 ./terrain_image
 This will generate a jpg file called map.jpg.
 The output image is different each time the program is run.
 
-I'm not 100% sure what exactly these 2 parameters do, so try playing around with them a bit, but the program crashes for values above 26, but those shouldn't be necessary anyways
+I'm not 100% sure what exactly these 2 parameters do, so try playing around with them a bit, but the program crashes for values of depth above 26, but those shouldn't be necessary anyways
 I've included some samples in the `samples` directory for reference
 The samples are in the form `<frequency>,<depth>.jpg`

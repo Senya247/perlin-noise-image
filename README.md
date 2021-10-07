@@ -16,5 +16,5 @@ freq=0.005, depth=10 ./terrain_image
 ```
 This will generate a jpg file called map.jpg
 
-I'm not 100% sure what exactly these 2 parameters do, so try plating around them a bit, but don't set depth to more than 11.
+I'm not 100% sure what exactly these 2 parameters do, so try playing around with them a bit, but don't set depth to more than 11.
 I've included some samples in the `samples` directory for reference

@@ -16,7 +16,8 @@ To run this using frequency as, for example,  0.005 and depth as 10, run:
 ```
 freq=0.005, depth=10 ./terrain_image
 ```
-This will generate a jpg file called map.jpg
+This will generate a jpg file called map.jpg.
+The output image is different each time the program is run.
 
 I'm not 100% sure what exactly these 2 parameters do, so try playing around with them a bit, but don't set depth to more than 11.
 I've included some samples in the `samples` directory for reference

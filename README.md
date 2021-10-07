@@ -1,6 +1,8 @@
 # perlin-noise-image
 Generates a 'height map' based on random perlin noise
 
+Huge thanks to nowl for the [perlin noise algorith implementation](https://gist.github.com/nowl/828013), and nothings for the [stb image library](https://github.com/nothings/stb)
+
 Compile:
 ```
 gcc terrain_image.c -lm -o terrain_image

@@ -1,7 +1,7 @@
 # perlin-noise-image
 Generates a 'height map' based on random [perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 
-Huge thanks to nowl for the [perlin noise algorithm implementation](https://gist.github.com/nowl/828013), and nothings for the [stb image library](https://github.com/nothings/stb)
+Thanks to nowl for the [perlin noise algorithm implementation](https://gist.github.com/nowl/828013), and nothings for the [stb image library](https://github.com/nothings/stb)
 
 Compile:
 ```
